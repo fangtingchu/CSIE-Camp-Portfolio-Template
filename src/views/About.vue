@@ -14,6 +14,6 @@ const step = ref(0);
             class="mb-8 block text-2xl sm:text-3xl lg:text-4xl"
         />
 
-        <Typing v-if="step >= 1" @done="step++" text="Who am I?" />
+        <Typing v-if="step >= 1" @done="step++" text="my name is f.teee" />
     </div>
 </template>

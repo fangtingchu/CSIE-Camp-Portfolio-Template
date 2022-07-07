@@ -7,28 +7,28 @@ import Fade from "../components/Fade.vue";
 
 const projects = [
     {
-        name: "製作個人網站？",
+        name: "早安",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
         link: "https://github.com",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
-        name: "寫出 AI？",
+        name: "午安",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
         link: "https://github.com",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
-        name: "學會 Linux？",
+        name: "晚安",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
         link: "https://github.com",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
-        name: "做出桌布？",
+        name: "吃宵夜",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
         link: "https://github.com",

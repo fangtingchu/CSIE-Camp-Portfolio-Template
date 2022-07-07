@@ -1,8 +1,8 @@
 <script setup>
 const links = [
-    { text: "Me", url: "/" },
-    { text: "About", url: "/about" },
-    { text: "Projects", url: "/projects" },
+    { text: "(՞•Ꙫ•՞)", url: "/" },
+    { text: "ฅ՞•ﻌ•՞ฅ", url: "/about" },
+    { text: "(◍•ᴗ•◍)", url: "/projects" },
 ];
 </script>
 
@@ -15,8 +15,8 @@ const links = [
                 'w-full',
                 'rounded-b-lg',
                 'bg-gradient-to-r',
-                'from-violet-800',
-                'to-indigo-600',
+                'from-sky-200',
+                'to-blue-200',
                 'pl-24',
                 'shadow-lg',
                 'shadow-indigo-400',
